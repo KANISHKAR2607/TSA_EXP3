@@ -70,11 +70,8 @@ plt.show()
 
 ### RESULT:
 
-Thus, The AutoCorrelation Function (ACF) of the data for the pH level in Water quality data is successfully executed.
+#### Thus, The AutoCorrelation Function (ACF) of the data for the pH level in Water quality data is successfully executed.
 
 
 
 
-### RESULT:
-
-####     Thus auto correlation function in python is successfully implemented.
